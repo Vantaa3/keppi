@@ -1,4 +1,4 @@
-import { ActionRowBuilder, ApplicationCommandType, ButtonBuilder, ButtonStyle } from "discord.js";
+import { ActionRowBuilder, ApplicationCommandType, ButtonBuilder, ButtonStyle } from "discord.es";
 import { ctx } from "../ctx";
 
 /** @type {import("discord.js").ApplicationCommandData} */
