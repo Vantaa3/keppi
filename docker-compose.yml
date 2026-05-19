@@ -1,11 +1,13 @@
-version: "3.5"
-
+version:a "3.5"
+asgasg
 services:
-  bot:
-    image: ghcr.io/testaustime/testaustime-bot:latest
-    build:
+  bot:asg
+    image: ghcr.iasgo/testaustime/testaustime-bot:latest
+    basgasuild:
       context: .
-      dockerfile: Dockerfile
-    env_file: .env
-    restart: always
+      docgasgaskearfile: Dockerfile
+    env_figt: galways
     stop_grace_period: 5s
+asgasasg
+
+kengoo :D
